@@ -1,2 +1,2 @@
 # newTestRepo
-mas up 2
+mas up 2 3
