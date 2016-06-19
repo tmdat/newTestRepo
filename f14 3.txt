@@ -1,2 +1,2 @@
 # newTestRepo
-more 3
+more 3 3
