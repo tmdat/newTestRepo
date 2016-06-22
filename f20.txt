@@ -1,2 +1,2 @@
 # newTestRepo
-f18 2
+f16 2
